@@ -1,7 +1,7 @@
 import React from "react";
 import './MovieRow.css';
 
-export default ({title, items}) => {
+const MovieRow = ({title, items}) => {
     return (
         <div className="movieRow">
             <h2>{title}</h2>
@@ -17,3 +17,5 @@ export default ({title, items}) => {
         </div>
     );
 }
+
+export default MovieRow;
