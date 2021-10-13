@@ -60,7 +60,7 @@ export default () => {
       <footer>
         Feito com <span role="img" aria-label="coração">❤️</span> por Braian<br/>
         Direitos de imagem para Netflix<br/>
-        Dados pegos do site Themoviedb.org
+        Dados pegos do site themoviedb.org
       </footer>
     </div>
   );
